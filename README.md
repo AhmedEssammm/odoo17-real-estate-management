@@ -34,15 +34,25 @@ This module demonstrates clean Odoo development practices, including models, vie
 ## 📂 Module Structure
 
 app-one/
+
 ├── controllers/
+
 ├── data/
+
 ├── i18n/
+
 ├── models/
+
 ├── reports/
+
 ├── security/
+
 ├── static/
+
 ├── tests/
+
 ├── views/
+
 └── wizard/
 
 ---
