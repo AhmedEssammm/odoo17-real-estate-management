@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Odoo
+*.log
+*.pot
+*.po
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Large temp files
+*.zip
+*.tar
+*.bak
+*.tmp

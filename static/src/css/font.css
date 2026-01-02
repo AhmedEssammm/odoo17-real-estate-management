@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Pacifico";
+    src: url(/app-one/static/src/fonts/Pacifico-Regular.ttf)
+}
+
+@font-face {
+    font-family: "MomoSignature";
+    src: url(/app-one/static/src/fonts/MomoSignature-Regular.ttf)
+}
